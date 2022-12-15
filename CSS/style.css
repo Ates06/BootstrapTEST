@@ -1,0 +1,17 @@
+.a_center{
+    width: 100%;
+    height: 900px;
+    float: left;
+    background-color: red;
+}
+
+.noMargin{
+    margin: 0px;
+    padding: opx;
+}
+
+.a{
+    width: 100%;
+    height: 600px;
+    float: left;
+}
